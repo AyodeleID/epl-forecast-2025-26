@@ -1,5 +1,5 @@
 # epl-forecast-2025-26
-Machine learning model predicting EPL 2025_26 Season outcomes
+Machine learning model predicting EPL 2025_26 Season outcomes.
 This project trains a Dixon–Coles Poisson model on the last three Premier League seasons and predicts probabilities for every 2025/26 fixture (Home/Draw/Away + most-likely score).
 - Training data: football-data.co.uk Premier League results (E0) for 2022/23, 2023/24, 2024/25.
 - Fixtures with dates: football-data.org (PL 2025 season).
